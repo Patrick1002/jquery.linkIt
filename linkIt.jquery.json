@@ -1,0 +1,30 @@
+{   "name": "LinkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Brad Traveray Tutorial",
+        "url": "Tutorial Lesson"
+    },
+    "maintainers": [
+        {
+            "name": "Tutorial Lesson",
+            "email": "Patrick1002.pol@gmail.com",
+            "url": "Tutorial Lesson"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Patrick1002/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
